@@ -2,6 +2,9 @@
 
 A virtual Sally Lightfoot style crab robot in the browser: six walking legs, two claw arms, physics, rough terrain, a ramp, a basket, a soccer ball and a plain-language command bar. It runs as a single page (`index.html`) using Three.js and JSZip from cdnjs.
 
+## Demo
+Try it live: https://geoffreyebrennan.github.io/crab-bot-simulator/
+
 ## Run it
 
 Open `index.html` in a browser, or publish it with GitHub Pages (Settings, Pages, deploy from the `main` branch, `/ (root)`). The page needs internet access to load the two libraries.
